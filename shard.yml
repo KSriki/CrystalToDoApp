@@ -1,0 +1,17 @@
+name: TodoApp
+version: 0.1.0
+
+authors:
+  - Srikant Kumar Kalaputapu <skalaputapu@gmail.com>
+
+targets:
+  TodoApp:
+    main: src/TodoApp.cr
+
+crystal: 0.32.1
+
+license: MIT
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal

@@ -12,16 +12,43 @@ TODO: Write usage instructions here
 
 ## Development
 
+### DB Mockup
+
 Users have many Notes
 
-CRUD Notes
-CRUD Users
+- Users
+    - username
+    - password
+    - age
+    - City of Origin
+    - email
+- Notes
+    - Title
+    - Content
+    - Date
+    - Edited On
+    - user_id (fk)
 
-#### Shards - dependency manager
+### Tech/framework used
+
+Kemal Web Application:
+
+<b>Built with</b>
+- [React](https://reactjs.org/)
+- [Kemal - Crystal](https://kemalcr.com/guide/)
+- [Semantic UI](https://react.semantic-ui.com/)
+
+
+### Features to be implemented
+
+- CRUD Notes
+- CRUD Users
+
+*Note: Shards - dependency manager*
 
 ## Contributing
 
-1. Fork it (<https://github.com/<github username>/TodoApp/fork>)
+1. Fork it (<https://github.com/KSriki/CrystalTodoApp/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -29,4 +56,4 @@ CRUD Users
 
 ## Contributors
 
-- [Srikant Kumar Kalaputapu](https://github.com/<github username>) - creator and maintainer
+- [Srikant Kumar Kalaputapu](https://github.com/KSriki) - creator and maintainer
