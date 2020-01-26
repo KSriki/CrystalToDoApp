@@ -39,6 +39,7 @@ Kemal Web Application:
     - [Shards Dependency Manager](https://github.com/crystal-lang/shards)
     - [Kilt - Generic template interface for Crystal](https://github.com/jeromegn/kilt)
 - [Semantic UI](https://react.semantic-ui.com/)
+- [Crystal-PG Postgres driver](https://github.com/will/crystal-pg)
 - [jennifer ORM based on ActiveRecord](https://github.com/imdrasil/jennifer.cr) 
     - uses [Sam.cr Rake/Make-like task manager](https://github.com/imdrasil/sam.cr)
 
