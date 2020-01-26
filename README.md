@@ -36,15 +36,18 @@ Kemal Web Application:
 <b>Built with</b>
 - [React](https://reactjs.org/)
 - [Kemal - Crystal](https://kemalcr.com/guide/)
+    - [Shards Dependency Manager](https://github.com/crystal-lang/shards)
+    - [Kilt - Generic template interface for Crystal](https://github.com/jeromegn/kilt)
 - [Semantic UI](https://react.semantic-ui.com/)
+- [jennifer ORM based on ActiveRecord](https://github.com/imdrasil/jennifer.cr) 
+    - uses [Sam.cr Rake/Make-like task manager](https://github.com/imdrasil/sam.cr)
 
+Possibility: Amber (web app framework for crystal) with Granite ORM. Kind of like Rails.
 
 ### Features to be implemented
 
 - CRUD Notes
 - CRUD Users
-
-*Note: Shards - dependency manager*
 
 ## Contributing
 
