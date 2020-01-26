@@ -41,9 +41,19 @@ Kemal Web Application:
 - [Semantic UI](https://react.semantic-ui.com/)
 - [Crystal-PG Postgres driver](https://github.com/will/crystal-pg)
 - [jennifer ORM based on ActiveRecord](https://github.com/imdrasil/jennifer.cr) 
-    - uses [Sam.cr Rake/Make-like task manager](https://github.com/imdrasil/sam.cr)
+    - [Sam.cr Rake/Make-like task manager](https://github.com/imdrasil/sam.cr)
+    - [Internationalization API ( i18n )](https://github.com/TechMagister/i18n.cr)
+        - Internationalization is the process of designing a software application so that it can be adapted to various languages and regions without engineering changes. 
+
 
 Possibility: Amber (web app framework for crystal) with Granite ORM. Kind of like Rails.
+
+### Jennifer
+Jennifer setup guide: https://github.com/imdrasil/jennifer.cr/blob/master/docs/getting_started.md
+
+```bash
+crystal sam.cr -- help
+```
 
 ### Features to be implemented
 
